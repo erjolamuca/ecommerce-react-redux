@@ -6,9 +6,29 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: white !important;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+.StripeCheckout {
+  border: 1px solid black;
+  color: black !important;
+  box-shadow: none !important;
+  text-shadow: none !important;
+  background: white !important;
+  font-weight: 400 !important;
+  margin-left: 430px;
+}
+
+.StripeCheckout span {
+  border: 1px solid black;
+  color: black !important;
+  box-shadow: none !important;
+  text-shadow: none !important;
+  background: white !important;
+  font-weight: 400 !important;
 }

@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "Pine Shirt",
+    "price": 79,
+    "category": 1,
+    "image": "pine-shirt.jpg",
+    "colour": ["blue", "red", "pink"],
+    "size": ["28", "30", "32", "34"]
+  },
+  {
+    "id": 2,
+    "name": "Murphy Shirt",
+    "price": 15,
+    "category": 1,
+    "image": "murphy-shirt.jpg",
+    "colour": ["blue", "red", "pink"],
+    "size": ["28", "30", "32", "34"]
+  },
+  {
+    "id": 3,
+    "name": "Origin T-Shirt",
+    "price": 44,
+    "category": 1,
+    "image": "origin-t-shirt.jpg",
+    "colour": ["blue", "red", "pink"],
+    "size": ["28", "30", "32", "34"]
+  },
+  {
+    "id": 4,
+    "name": "Classic Shirt",
+    "price": 33,
+    "category": 1,
+    "image": "shirt.jpg",
+    "colour": ["blue", "red", "pink"],
+    "size": ["28", "30", "32", "34"]
+  },
+  {
+    "id": 5,
+    "name": "Samo Chinos",
+    "price": 794,
+    "category": 2,
+    "image": "samo-chinos.jpg",
+    "colour": ["blue", "red", "pink"],
+    "size": ["28", "30", "32", "34"]
+  },
+  {
+    "id": 6,
+    "name": "Blaze Jogger",
+    "price": 152,
+    "category": 2,
+    "image": "blaze-jogger1.jpg",
+    "colour": ["blue", "red", "pink"],
+    "size": ["28", "30", "32", "34"]
+  },
+  {
+    "id": 7,
+    "name": "Skinny Jeans",
+    "price": 442,
+    "category": 2,
+    "image": "skinny-jeans.jpg",
+    "colour": ["blue", "red", "pink"],
+    "size": ["28", "30", "32", "34"]
+  },
+  {
+    "id": 8,
+    "name": "Chrome Laptop Bag",
+    "price": 332,
+    "category": 3,
+    "image": "chrome-laptop-bag.jpg",
+    "colour": ["blue", "red", "pink"],
+    "size": ["oneSize"]
+  },
+  {
+    "id": 9,
+    "name": "Chelsea Boot",
+    "price": 79,
+    "category": 4,
+    "image": "chelsea-boot.jpg",
+    "colour": ["blue", "red", "pink"],
+    "size": ["28", "30", "32", "34"]
+  },
+  {
+    "id": 10,
+    "name": "Magnus Sneaker",
+    "price": 152,
+    "category": 4,
+    "image": "magnus-sneaker.jpg",
+    "colour": ["blue", "red", "pink"],
+    "size": ["28", "30", "32", "34"]
+  },
+  {
+    "id": 11,
+    "name": "Toraz Boot",
+    "price": 42,
+    "category": 4,
+    "image": "toraz-boot.jpg",
+    "colour": ["blue", "red", "pink"],
+    "size": ["28", "30", "32", "34"]
+  },
+  {
+    "id": 12,
+    "name": "Sneakers",
+    "price": 33,
+    "category": 4,
+    "image": "sneakers.jpg",
+    "colour": ["blue", "red", "pink"],
+    "size": ["28", "30", "32", "34"]
+  }
+]
