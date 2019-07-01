@@ -11,6 +11,6 @@ A fully functional ecommerce made with React and Redux. Payments are managed wit
 
 # Example
 
-![alt text](https://github.com/erjolamuca/ecommerce-react-redux/master/demo/project.png)
+![alt text](https://github.com/erjolamuca/ecommerce-react-redux/blob/master/demo/project.png)
 
 # Don't forget to star this repo ;)
